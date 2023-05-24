@@ -1,0 +1,92 @@
+.container{
+    width: 800px;
+    height: 768px;
+    background-color: black;
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+
+
+}
+.controle01{
+    width: 200px;
+    height: 60px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.controle02{
+    width: 200px;
+    height: 60px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.controle03{
+    width: 200px;
+    height: 60px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.controle04{
+    width: 200px;
+    height: 60px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.controle05{
+    width: 800px;
+    height: 100px;
+    background-color: azure;
+}
+.controle06{
+    width: 800px;
+    height: 300px;
+    background-color: cornflowerblue;
+}
+.controle07{
+    width: 800px;
+    height: 308px;
+    background-color: azure;
+}
+.controle08{
+    width: 60px;
+    height: 60px;
+    background-color: aliceblue;
+    margin-left: 30px;
+    margin-top: -90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 80%;
+    
+}
+.texto{
+    width: 200px;
+    height: 120px;
+    background-color: aquamarine;
+    margin-top: -250px;
+    margin-left: 150px;
+    font-family: 'Domine', serif;
+}
+a{
+    color: aliceblue;
+    font-family: fantasy;
+    font-size: 20px;
+}
+a:hover{
+    color: yellow;
+}
+a:link{
+    color: aliceblue;
+    text-decoration: none;
+}
